@@ -1,10 +1,13 @@
-#Chapter-1 Modules, Comments & Pip
+# Chapter-1 Modules, Comments & Pip
+
 Let’s write our very first python program.
 
 Create a file called hello.py and paste the below code into it
-'''
+
+```
 print(“Hello World”) # print is a function (more later)
-'''
+```
+
 Execute this file (.py file) by typing python hello.py, and you will see Hello World printed on the screen.
 
 ### Modules
