@@ -64,3 +64,8 @@ len(‘harry’) #Returns 5
 #### Escape Sequence Characters comprises of more than one character but represents one character when used within the string.
 
 - Examples: \n (new line), \t (tab), \’ (single quote), \\ (backslash), etc.
+
+## Chapter 3 – Practice Set
+
+- Write a Python program to display a user-entered name followed by Good Afternoon using input() function.
+- Write a program to fill in a letter template given below with name and date.

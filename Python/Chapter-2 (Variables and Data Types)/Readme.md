@@ -95,3 +95,12 @@ a = input(“Enter name”) #if a is “harry”, the user entered harry
 #### Note: The output of the input function is always a string even if the number is entered by the user.
 
 Suppose if a user enters 34, then this 34 will automatically convert to “34” string literal.
+
+## Chapter 2 – Practice Set
+
+- Write a Python program to add two numbers.
+- Write a Python program to find the remainder when a number is divided by Z(Integer).
+- Check the type of the variable assigned using the input() function.
+- Use a comparison operator to find out whether a given variable a is greater than b or not. (Take a=34 and b=80)
+- Write a Python program to find the average of two numbers entered by the user.
+- Write a Python program to calculate the square of a number entered by the user.
