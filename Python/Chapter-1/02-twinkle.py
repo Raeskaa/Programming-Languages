@@ -9,10 +9,3 @@ Ye rawaab aise kaise
 Pashmina dhaagon ke sang
 ''')
 
-# printing table of 5
-
-for(int i=0; i<10; i++)
-{
-    print(5*i):
-}
-
