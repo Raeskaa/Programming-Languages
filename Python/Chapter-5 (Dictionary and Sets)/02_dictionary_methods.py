@@ -17,6 +17,8 @@ updateDict = {
     "Shubham": "Friend",
     "harry": "A Dancer"
 }
+
+# Dictionary methods 
 myDict.update(updateDict) # Updates the dictionary by adding key-value pairs from updateDict
 print(myDict)
 

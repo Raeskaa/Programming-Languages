@@ -17,9 +17,11 @@ print(b)
 print(len(b)) # Prints the length of this set
 
 ## Removal of an Item
-b.remove(5) # Removes 5 fromt set b
+b.remove(5) # Removes 5 from set b
 # b.remove(15) # throws an error while trying to remove 15 (which is not present in the set)
 print(b)
 
 print(b.pop())
 print(b)
+
+# Values being same is not a problem but keys are not allowed to be same for any two elements
